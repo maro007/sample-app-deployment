@@ -1,0 +1,1 @@
+{"jobID":"d9969503-ae00-f167-bdbc-b3d6bf225c7b","spec":{"type":"policy","cause":{"Message":"","User":"sami007 \u003cstudent-00-98bc64b12fbe@qwiklabs.net\u003e"},"spec":{"default:deployment/sample-app":{"add":{"automated":"true"},"remove":{}}}},"result":null}
